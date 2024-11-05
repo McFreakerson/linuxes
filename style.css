@@ -16,6 +16,26 @@ h1 {
     margin-right: auto;
     width: fit-content;
     padding: 10px;
-    color: green;
-    
+    color: rgb(3, 255, 3);
+}
+p {
+    color: rgb(8, 243, 8);
+}
+.gamepass {
+    display: block;
+    float: right;
+}
+.price {
+float: left;
+border: solid 3px;
+border-color: rgb(14, 233, 14);
+padding: 1em;
+padding-top: 2em;
+}
+.info {
+    border: solid 3px;
+border-color: rgb(14, 233, 14);
+float: left;
+padding: 1em;
+padding-top: 2em;
 }
